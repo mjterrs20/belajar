@@ -1,0 +1,27 @@
+*,body,html{
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 50px;
+    background: aqua;
+}
+.navbar-nav a{
+    color: red;
+}
+
+.tampilan h2{
+    text-align: center;
+    margin-top: 50px;
+}
+.jumbotron{
+    height: 100%;
+    padding: 0;
+    margin-bottom: 0;
+}
+.tampilan{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
