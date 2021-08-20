@@ -1,1 +1,1 @@
-belajar aja please
+belajar aja please w
